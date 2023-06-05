@@ -1,8 +1,14 @@
 # Measurements-system-for-bmw
  System of the sound level measurements emitted by BMW roof modules 
  
-**Politechnika Gdańska**        
+**Politechnika Gdańska**  
+	
 **Wydział Elektroniki, Telekomunikacji i Informatyki**  
+	
+**_Kierunek: Elektronika i telekomunikacja_**	
+	
+**_Profil: Inżynieria mikrofalowa i antenowa _**
+	
 PROJEKT DYPLOMOWY INŻYNIERSKI   
 Tytuł projektu w języku polskim: System do pomiaru głośności modułów dachowych samochodów BMW   
 Tytuł projektu w języku angielskim: System of the sound level measurements emitted by BMW  roof modules         
