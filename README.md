@@ -1,6 +1,5 @@
-# BMW-measurements-system
- System of the sound level measurements emitted by BMW roof modules 
- 
+# System of the sound level measurements emitted by BMW roof modules
+  
 **POLITECHNIKA GDAŃSKA**  
 	
 **Wydział Elektroniki, Telekomunikacji i Informatyki**  
