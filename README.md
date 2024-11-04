@@ -1,4 +1,4 @@
-# Measurements-system-for-bmw
+# BMW-measurements-system
  System of the sound level measurements emitted by BMW roof modules 
  
 **POLITECHNIKA GDAŃSKA**  
